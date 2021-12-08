@@ -2,3 +2,5 @@
 primer repositori
 
 aprenent git
+
+segon canvi
